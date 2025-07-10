@@ -11,7 +11,6 @@ Alunos:
 
 - Arthur Afonso
 
-- Júlio Cesar Leme
 
 ---
 
