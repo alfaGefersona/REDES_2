@@ -54,8 +54,8 @@ comunicacao-draconica/
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/alfaGefersona/RC28CP.git
-cd RC28CP
+git clone https://github.com/alfaGefersona/REDES_2.git
+cd REDES_2
 ```
 
 ---
